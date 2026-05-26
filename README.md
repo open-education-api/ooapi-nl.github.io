@@ -1,1 +1,1 @@
-Redirect to open-education-api.github.io.
+Redirect to oeapi.eu
